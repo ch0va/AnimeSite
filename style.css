@@ -280,6 +280,11 @@ header {
     height: 100rem;
   }
 
+  .main {
+    margin: 3rem;
+    padding: 0rem 1rem 0rem 1rem;
+  }
+
   .main label {
     display: flex;
     align-content: center;
@@ -331,13 +336,13 @@ header {
 
   .main-description {
     text-align: start;
-    width: 100%;
+    width: 80vw;
     margin: 0rem;
     padding: 0rem;
   }
 
   .main-amine img {
-    width:70vw;
+    width:80vw;
     margin: 0rem;
     padding: 0rem;
     margin-bottom: 2rem;
