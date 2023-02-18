@@ -330,13 +330,14 @@ header {
   }
 
   .main-description {
+    text-align: start;
     width: 100%;
     margin: 0rem;
     padding: 0rem;
   }
 
   .main-amine img {
-    width: 25rem;
+    width:70vw;
     margin: 0rem;
     padding: 0rem;
     margin-bottom: 2rem;
@@ -387,3 +388,5 @@ header {
     font-size: 3rem;
   }
 }
+
+
