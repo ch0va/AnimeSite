@@ -54,14 +54,14 @@ header {
 }
 
 .header-right button:hover {
-  background: #800080;
+  background: #54008f;
   color: white;
   transition: 250ms;
 }
 
 .imageGallery {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   overflow: auto;
   margin: 4rem;
   list-style-type: none;
@@ -337,6 +337,7 @@ p.mark {
 
   .header-left {
     margin: 1rem 0 0 0;
+    border: none;
   }
 }
 
